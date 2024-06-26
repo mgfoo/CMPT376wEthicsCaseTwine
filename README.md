@@ -6,4 +6,4 @@ Case Study chosen: Dark UX Patterns
 
 Team members: Michaela Foo, Bowei Pan,&  Vincente Buenaventura
 
-You can access our project at this link: [https://mgfoo.github.io/CMPT376wEthicsCaseTwine/]
+You can access our project at this link: [https://mgfoo.github.io/CMPT376wEthicsCaseTwine/Dark-UX-Pattern.html]
